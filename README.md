@@ -31,5 +31,5 @@ This repo documents everything I learn, practice, and build along the way.
 - Experiment with creative coding (art + tech projects)
 
 ## 🤝 Connect With Me
-- [LinkedIn](linkedin.com/in/faiza-umatiya)  
+- [LinkedIn](https://www.linkedin.com/in/faiza-umatiya/)
 - [GitHub](https://github.com/Faizaumatiya/)  
