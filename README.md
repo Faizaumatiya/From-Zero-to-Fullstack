@@ -14,3 +14,22 @@ This repo documents everything I learn, practice, and build along the way.
 - Instructor: Angela Yu  
 - Platform: Udemy  
 - Focus: Full-Stack Web Development (HTML, CSS, JavaScript, Node.js, React, Databases, Deployment)
+
+## 📈 Progress Tracker
+- [x] HTML Basics  
+- [x] CSS Fundamentals  
+- [ ] JavaScript DOM Manipulation  
+- [ ] Node.js & Express  
+- [ ] React  
+- [ ] Databases & Deployment
+
+## 🎯 Goals Ahead
+- Build interactive UIs with React  
+- Explore backend development with Node.js & Express  
+- Deploy apps to Heroku/Vercel  
+- Contribute to open source projects  
+- Experiment with creative coding (art + tech projects)
+
+## 🤝 Connect With Me
+- [LinkedIn](linkedin.com/in/faiza-umatiya)  
+- [GitHub](https://github.com/Faizaumatiya/)  
